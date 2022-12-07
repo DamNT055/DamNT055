@@ -19,7 +19,7 @@
 
 <p>
   
-- Artificial Intelligence - 3rd year @ FPT University HCM. 🎓
+- Artificial Intelligence - Final year @ FPT University HCM. 🎓
 - Looking for opportunities and collaborations in the field of data science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 - Technical Blogger 📝
