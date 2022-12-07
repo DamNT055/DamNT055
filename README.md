@@ -29,9 +29,9 @@
 
 <h3 align="left">Interests:</h3>
 
-- Data Science 📊
-- Data Structures And Algorithms 💻
 - Database 
+- Data Structures And Algorithms 💻
+- Data Science 📊
 - Computer Vision & NLP 👑
 
 <h3 align="left">Languages:</h3>
