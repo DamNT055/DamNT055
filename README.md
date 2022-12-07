@@ -67,6 +67,7 @@
   - FPT University Scholarship
   - Spring & Summer 2021 FPT good student
   - Fall & Spring 2022 FPT excellent student
+  - Excellent activities student
 # Projects :
 |Title|Links|
 |:---:|:---:|
