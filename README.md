@@ -111,7 +111,7 @@
 <br><br>
 [<img align="top" alt="Facebook" src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" />](https://www.facebook.com/nguyen1872oz/)
 <br><br>
-[<img align="top" alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail: damntse150556@fpt.edu.vn&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />](https://gmail.com/)
+[<img align="top" alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail: nguyendam5555@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />](mailto:nguyendam5555@gmail.com)
 <br><br>
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
