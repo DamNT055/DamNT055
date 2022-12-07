@@ -64,7 +64,7 @@
   
 
 # Achievements :
-  - FPT University Scholarship 50%
+  - FPT University Scholarship
   - Spring & Summer 2021 FPT good student
   - Fall & Spring 2022 FPT excellent student
 # Projects :
