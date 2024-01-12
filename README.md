@@ -18,7 +18,7 @@
 
 <p>
   
-- Artificial Intelligence - Final year @ FPT University HCM. 🎓
+- Artificial Intelligence. 🎓
 - Looking for opportunities and collaborations in the field of data science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 - Technical Blogger 📝
@@ -61,12 +61,6 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
   
-
-# Achievements :
-  - FPT University Scholarship
-  - Spring & Summer 2021 FPT good student
-  - Fall & Spring 2022 FPT excellent student
-  - Excellent activities student
 # Projects :
 |Title|Links|
 |:---:|:---:|
