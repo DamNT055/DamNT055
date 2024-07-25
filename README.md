@@ -101,9 +101,9 @@
 <div>
 <h2  > Connect with me</h2>
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/damnguyen0512/)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
 <br><br>
-[<img align="top" alt="Facebook" src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" />](https://www.facebook.com/dam.nguyen.167189/)
+[<img align="top" alt="Facebook" src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" />](https://www.facebook.com/)
 <br><br>
 [<img align="top" alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail: nguyendam5555@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />](mailto:nguyendam5555@gmail.com)
 <br><br>
