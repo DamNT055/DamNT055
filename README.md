@@ -5,7 +5,7 @@
 
 - 😎 I’m interested in Machine Learning, Deep Learning and Computer Vison.
 - 🍄 I’m looking to collaborate on Computer Vision and NLP.
-- 📫 How to reach me? Email: nguyendam5555@gmail.com, [Linkedin](https://www.linkedin.com/in/nguyen-thanh-dam-808661216/), [Facebook](https://www.facebook.com/nguyen1872oz).
+- 📫 How to reach me? Email: nguyendam5555@gmail.com, [Linkedin](https://www.linkedin.com/in/nguyen-thanh-dam-808661216/).
 
 
 ## Dynamic Quotes 📜:
